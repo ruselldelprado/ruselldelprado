@@ -1,6 +1,6 @@
 <br clear="both">
 
-#👋 Hi, I'm Rusell Del Prado
+<h1>👋 Hi, I'm Rusell Del Prado </h1>
 
 one <br/> two <br/>  three <br/> four
 
