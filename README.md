@@ -1,10 +1,11 @@
 <br clear="both">
 
-<h1 align="left">👋 Hi, I'm Rusell Del Prado</h1></br>
+#👋 Hi, I'm Rusell Del Prado
+
 one <br/> two <br/>  three <br/> four
 
 
-### Tech Stack
+## Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
