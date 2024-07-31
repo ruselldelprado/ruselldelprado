@@ -35,5 +35,3 @@ one <br/> two <br/>  three <br/> four
   </a>
 </div>
 
-<h2> Activities </h2>
-![ruselldelprado's Stats](https://github-readme-stats.vercel.app/api?username=ruselldelprado&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</br>
