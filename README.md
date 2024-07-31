@@ -27,7 +27,7 @@ one <br/> two <br/>  three <br/> four
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-### Contact Information
+<h2> Contact Information </h2>
 
 <div align="left">
   <a href="https://facebook.com/delpradorusell" target="_blank">
@@ -35,6 +35,5 @@ one <br/> two <br/>  three <br/> four
   </a>
 </div>
 
-###
+<h2> Activities </h2>
 ![ruselldelprado's Stats](https://github-readme-stats.vercel.app/api?username=ruselldelprado&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</br>
-![ruselldelprado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruselldelprado&theme=vue-dark&hide_border=true)
