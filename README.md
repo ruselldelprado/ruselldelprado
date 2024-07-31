@@ -30,9 +30,11 @@
   <a href="rusellvdelprado@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="facebook.com/delpradorusell" target="_blank">
+  <a href="https://facebook.com/delpradorusell" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
 ###
+![ruselldelprado's Stats](https://github-readme-stats.vercel.app/api?username=ruselldelprado&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ruselldelprado's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruselldelprado&theme=vue-dark&hide_border=true)
