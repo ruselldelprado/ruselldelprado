@@ -1,12 +1,10 @@
 <br clear="both">
 
 <h1 align="left">👋 Hi, I'm Rusell Del Prado</h1></br>
-<p>I</p>
-<p>one</p
-<p>one</p>
-<p>one</p>
+one  two  three  four
 
-###
+
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -28,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
-###
+### Contact Information
 
 <div align="left">
   <a href="" target="_blank">
