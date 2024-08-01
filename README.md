@@ -2,7 +2,7 @@
 
 🏤 I studied Computer Engineering at STI Las Pinas in the Philippines <br>
 📒 I love reading novels, gaming, and guitar playing <br>
-🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose <br>
+🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose <br><br>
 
 <div align="left">
 <h2> Skills </h2>
