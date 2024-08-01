@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div><br><br>
+</div><br><br><br><br>
 
 ###
 
@@ -40,7 +40,7 @@
   <a href="https://facebook.com/delpradorusell" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-</div><br><br>
+</div><br><br><br><br>
 
 ![Snake animation](https://raw.githubusercontent.com/ruselldelprado/ruselldelprado/output/github-contribution-grid-snake-dark.svg)
 
