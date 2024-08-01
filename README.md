@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Rusell Del Prado </h1><br>
+<h1>👋 Hi, I'm Rusell Del Prado </h1>
 
 🏤 I studied Computer Engineering at STI Las Pinas in the Philippines <br>
 📒 I love reading novels, gaming, and guitar playing <br>
