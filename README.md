@@ -35,7 +35,7 @@
 
 ###
 
-<h2> Contact Information </h2>
+<h2> Contacts </h2>
 
 <div align="left">
   <br>
