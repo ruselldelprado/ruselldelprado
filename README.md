@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Rusell Del Prado </h1>
-<h4>🏤 I studied Computer Engineering at STI Las Pinas in the Philippines</h4> 
-<h4>📒 I love reading novels, gaming, and guitar playing</h4> 
-<h4>🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose</h4> <br><br>
+<h4>🏤 I studied Computer Engineering at STI Las Pinas in the Philippines<br>
+<h4>📒 I love reading novels, gaming, and guitar playing<br>
+<h4>🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose <br><br></h4>
 
 <div align="left">
 <h2> Skills </h2>
