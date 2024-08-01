@@ -1,9 +1,4 @@
 <h1>👋 Hi, I'm Rusell Del Prado </h1><br>
-🏤 I studied Computer Engineering at STI Las Pinas in the Philippines <br><br>
-📒 I love reading novels, gaming, and guitar playing <br><br>
-🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose <br><br><br>
-
-
 <div align="left">
 <h2> Skills </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -28,6 +23,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div><br>
+
+
+🏤 I studied Computer Engineering at STI Las Pinas in the Philippines <br><br>
+📒 I love reading novels, gaming, and guitar playing <br><br>
+🐦 I am currently studying MVVM design pattern in Kotlin Jetpack Compose <br><br><br>
+
+
 
 
 
